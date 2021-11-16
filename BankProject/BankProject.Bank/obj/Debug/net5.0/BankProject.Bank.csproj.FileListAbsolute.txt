@@ -1,0 +1,16 @@
+C:\Users\xerather\Documents\GitHub\DIO_Project_repository\BankProject\BankProject.Bank\bin\Debug\net5.0\BankProject.Bank.exe
+C:\Users\xerather\Documents\GitHub\DIO_Project_repository\BankProject\BankProject.Bank\bin\Debug\net5.0\BankProject.Bank.deps.json
+C:\Users\xerather\Documents\GitHub\DIO_Project_repository\BankProject\BankProject.Bank\bin\Debug\net5.0\BankProject.Bank.runtimeconfig.json
+C:\Users\xerather\Documents\GitHub\DIO_Project_repository\BankProject\BankProject.Bank\bin\Debug\net5.0\BankProject.Bank.runtimeconfig.dev.json
+C:\Users\xerather\Documents\GitHub\DIO_Project_repository\BankProject\BankProject.Bank\bin\Debug\net5.0\BankProject.Bank.dll
+C:\Users\xerather\Documents\GitHub\DIO_Project_repository\BankProject\BankProject.Bank\bin\Debug\net5.0\ref\BankProject.Bank.dll
+C:\Users\xerather\Documents\GitHub\DIO_Project_repository\BankProject\BankProject.Bank\bin\Debug\net5.0\BankProject.Bank.pdb
+C:\Users\xerather\Documents\GitHub\DIO_Project_repository\BankProject\BankProject.Bank\obj\Debug\net5.0\BankProject.Bank.csproj.AssemblyReference.cache
+C:\Users\xerather\Documents\GitHub\DIO_Project_repository\BankProject\BankProject.Bank\obj\Debug\net5.0\BankProject.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xerather\Documents\GitHub\DIO_Project_repository\BankProject\BankProject.Bank\obj\Debug\net5.0\BankProject.Bank.AssemblyInfoInputs.cache
+C:\Users\xerather\Documents\GitHub\DIO_Project_repository\BankProject\BankProject.Bank\obj\Debug\net5.0\BankProject.Bank.AssemblyInfo.cs
+C:\Users\xerather\Documents\GitHub\DIO_Project_repository\BankProject\BankProject.Bank\obj\Debug\net5.0\BankProject.Bank.csproj.CoreCompileInputs.cache
+C:\Users\xerather\Documents\GitHub\DIO_Project_repository\BankProject\BankProject.Bank\obj\Debug\net5.0\BankProject.Bank.dll
+C:\Users\xerather\Documents\GitHub\DIO_Project_repository\BankProject\BankProject.Bank\obj\Debug\net5.0\ref\BankProject.Bank.dll
+C:\Users\xerather\Documents\GitHub\DIO_Project_repository\BankProject\BankProject.Bank\obj\Debug\net5.0\BankProject.Bank.pdb
+C:\Users\xerather\Documents\GitHub\DIO_Project_repository\BankProject\BankProject.Bank\obj\Debug\net5.0\BankProject.Bank.genruntimeconfig.cache
